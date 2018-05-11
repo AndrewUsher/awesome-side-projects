@@ -29,3 +29,26 @@ A podcast is a place where listeners can grow and gain knowledge. For experts or
 - [How to Start Your Own Podcast](https://lifehacker.com/how-to-start-your-own-podcast-1709798447)
 - [How to Start a Successful Podcast for under 100 Dollars](https://www.shopify.com/blog/34911301-how-to-start-a-podcast-the-ultimate-step-by-step-podcasting-guide)
 - [Podcasting 101: How to Start a Podcast](http://thepodcastersstudio.com/tps101-podcasting-101-how-to-start-a-podcast/)
+
+## 2. Blog 
+A blog is a public personal journal of everything that you have accomplished in your career. If you are considering blogging, just do it. The benefits far outweigh the cons, and it will feel weird the first time. 
+
+### Benefits
+- Improves your communication
+- Improves your programming skills
+- Ability to share thoughts on various topics
+- Get valuable feedback from readers
+- Possible invitations to speak on podcasts, at meetups, and at WordCamps
+- Learn more about yourself
+- Place to talk about ioinions that you might not have challenged
+
+### Examples
+- [Brian Muenzenmeyer](http://www.brianmuenzenmeyer.com/archive.html)
+- [CSS Tricks](https://css-tricks.com/)
+- [Tyler McGinnis](https://tylermcginnis.com/blog/)
+- [Wes Bos](https://wesbos.com/blog/)
+
+### Tutorials
+- [Blogging for Software Developers](https://simpleprogrammer.com/blogging-software-developers/)
+- [How To Start an Awesome Developer Blog](https://devdactic.com/start-development-blog/)
+- [How to Start a Programming Blog in 2018](http://codingsupply.com/start-programming-blog/)
