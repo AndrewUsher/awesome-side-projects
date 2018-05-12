@@ -52,3 +52,26 @@ A blog is a public personal journal of everything that you have accomplished in 
 - [Blogging for Software Developers](https://simpleprogrammer.com/blogging-software-developers/)
 - [How To Start an Awesome Developer Blog](https://devdactic.com/start-development-blog/)
 - [How to Start a Programming Blog in 2018](http://codingsupply.com/start-programming-blog/)
+
+## 3. Youtube Channel 
+Starting a Youtube channel, like most other side projects, can become a full-time gig if you get big enough. That **should not** be your only reason for starting a channel though. A channel can grow your confidence as a developer and help you grow skills that make you a better developer and person
+
+### Benefits
+- Forces you to improve your speaking skills
+- Closer personal connection with audience
+- Gives you a creative outlet
+- Gets you outside of your comfort zone
+
+### Examples
+- [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+- [Dylan Israel](https://www.youtube.com/channel/UC5Wi_NYysX-LfcqT3Hq9Faw)
+- [Level Up Tutorials](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
+- [Meth Meth Method](https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ)
+- [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+- [Wes Bos](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
+- [Zell Liew](https://www.youtube.com/channel/UCwIu7m0WpCNXiKZfysX54Zg)
+
+### Tutorials
+- [How To Start a Youtube Channel by Entrepeneur](https://www.entrepreneur.com/article/229284)
+- [7 Things to Consider When Starting a Youtube Channel](https://www.makeuseof.com/tag/successful-youtube-channel/)
+- [Equipment You Need To Start Youtube Channel](https://www.makeuseof.com/tag/equipment-start-youtube-channel/)
